@@ -89,10 +89,11 @@
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
+
+                  <h2> Texto de prueba </h2>
+                
             </div>
-            <div>
-              <h2> Texto de prueba </h2>
-            </div>
+
 
             </div>
         </div>
