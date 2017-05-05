@@ -90,6 +90,11 @@
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
             </div>
+            <div>
+              <h2> Texto de prueba </h2>
+            </div>
+
+            </div>
         </div>
     </body>
 </html>
